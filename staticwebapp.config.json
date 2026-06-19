@@ -1,0 +1,6 @@
+{
+  "navigationFallback": {
+    "rewrite": "/myob-callback/index.html",
+    "exclude": ["/myob-callback/*"]
+  }
+}
